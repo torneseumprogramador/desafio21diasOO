@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{87CFA0C2-7D08-45B3-A0FB-BDD5A430855B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Desafio21DiasOO/Servico.cs">
+    <Files>
+      <File FileName="Desafio21DiasOO/Servico.cs" Line="13" Column="10" />
+      <File FileName="Desafio21DiasOO/Pessoa.cs" />
+      <File FileName="Desafio21DiasOO/Fisica.cs" />
+      <File FileName="Desafio21DiasOO/Juridica.cs" />
+      <File FileName="Desafio21DiasOO/IPessoa.cs" />
+      <File FileName="Desafio21DiasOO/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Desafio21DiasOO" expanded="True">
+            <Node name="Desafio21DiasOO" expanded="True">
+              <Node name="Servico.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/Program.cs" relfile="Desafio21DiasOO/Program.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Desafio21DiasOO PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

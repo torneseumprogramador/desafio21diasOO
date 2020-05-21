@@ -1,0 +1,12 @@
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/bin/Debug/netcoreapp3.1/Desafio21DiasOO.deps.json
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/bin/Debug/netcoreapp3.1/Desafio21DiasOO.runtimeconfig.json
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/bin/Debug/netcoreapp3.1/Desafio21DiasOO.runtimeconfig.dev.json
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/bin/Debug/netcoreapp3.1/Desafio21DiasOO.dll
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/bin/Debug/netcoreapp3.1/Desafio21DiasOO.pdb
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/obj/Debug/netcoreapp3.1/Desafio21DiasOO.csprojAssemblyReference.cache
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/obj/Debug/netcoreapp3.1/Desafio21DiasOO.csproj.CoreCompileInputs.cache
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/obj/Debug/netcoreapp3.1/Desafio21DiasOO.AssemblyInfoInputs.cache
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/obj/Debug/netcoreapp3.1/Desafio21DiasOO.AssemblyInfo.cs
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/obj/Debug/netcoreapp3.1/Desafio21DiasOO.dll
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/obj/Debug/netcoreapp3.1/Desafio21DiasOO.pdb
+/Users/danilo/Projects/Desafio21DiasOO/Desafio21DiasOO/obj/Debug/netcoreapp3.1/Desafio21DiasOO.genruntimeconfig.cache
